@@ -69,6 +69,7 @@ $(function () {
     // example usage: createCannon(side, position, delay, width, height)
     createCannon('top',500,739,35,20)
     createCannon('left',500,6000,750,10)
+    creatCannon('right',430,6000,750,10)
    
 
 
